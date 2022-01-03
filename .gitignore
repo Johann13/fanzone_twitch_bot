@@ -112,3 +112,12 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+.idea/fizone_fanzone_twitch_bot.iml
+.idea/deployment.xml
+.idea/.name
+.DS_Store
+.idea/inspectionProfiles/profiles_settings.xml
+.idea/inspectionProfiles/Project_Default.xml
+.idea/misc.xml
+.idea/modules.xml
+.idea/remote-mappings.xml
