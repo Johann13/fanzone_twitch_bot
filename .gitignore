@@ -121,3 +121,8 @@ dmypy.json
 .idea/misc.xml
 .idea/modules.xml
 .idea/remote-mappings.xml
+config/bot_config.json
+config/google_service_account.json
+config/quote_config.json
+config/raffle_config.json
+config/twitch_config.json
